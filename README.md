@@ -18,7 +18,7 @@ https://github.com/eeriemyxi/glorious-sunset/raw/refs/heads/main/theme.json
 - The wallpaper was taken from [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/).
 
 # Screenshots
-![](assets/screenshots/one.jpg)
-![](assets/screenshots/two.jpg)
-![](assets/screenshots/three.jpg)
-![](assets/screenshots/four.jpg)
+![](https://github.com/ladypossumcorn/glorious-sunset-pistachio/blob/main/assets/screenshots/Screenshot_20260117_142559.jpg)
+![](https://github.com/ladypossumcorn/glorious-sunset-pistachio/blob/main/assets/screenshots/Screenshot_20260117_142537.jpg)
+![](https://github.com/ladypossumcorn/glorious-sunset-pistachio/blob/main/assets/screenshots/Screenshot_20260117_142437.jpg)
+![](https://github.com/ladypossumcorn/glorious-sunset-pistachio/blob/main/assets/screenshots/Screenshot_20260117_142408.jpg)
