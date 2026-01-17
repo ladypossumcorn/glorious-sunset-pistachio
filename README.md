@@ -1,4 +1,4 @@
-# Glorious Sunset
+# Glorious Sunset: Yellowed Pistachio
 Gruvbox-based theme for [Revenge](https://github.com/revenge-mod/revenge-bundle) with edited accents. This is my first attempt at theming.
 
 ---
